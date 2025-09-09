@@ -1,7 +1,7 @@
 
 👋 Hey there, I'm Miguel!
 
-🎓 About Me: I'm a passionate Computer Science student currently studying at George Brown College in Toronto, Canada. At 20 years old, I'm eager to dive deep into the world of software development and explore its endless possibilities.
+🎓 About Me: I'm a passionate Computer Science  recently graduate from George Brown College in Toronto, Canada. At 20 years old, I'm eager to dive deep into the world of software development and explore its endless possibilities.
 
 💻 Skills: I'm proficient in Java programming and have a strong foundation in web development and database management. From HTML and CSS to JavaScript, I'm constantly sharpening my skills and learning new technologies along the way.
 
